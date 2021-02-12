@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![New York Lottery](https://upload.wikimedia.org/wikipedia/en/8/89/New_York_Lottery.svg)
