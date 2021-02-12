@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[NY lotery Wiki](https://en.wikipedia.org/wiki/New_York_Lottery)
